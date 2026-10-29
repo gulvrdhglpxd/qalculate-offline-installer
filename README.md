@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Calculator-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Qalculate! Free Installer** — Qalculate! is a powerful, free multi-purpose calculator application for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Qalculate! Free Installer** — Qalculate! is a free, powerful desktop calculator application for Linux, Windows, and macOS. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Qalculate!
 
-Qalculate! is a powerful, free multi-purpose calculator application for Windows, macOS, and Linux. Features include unit conversions, currency exchange rates, symbolic algebra, equation solving, matrix calculations, and a rich function library. Qalculate! goes far beyond a standard calculator with its natural language expression parsing and extensive mathematical capabilities.
+Qalculate! is a free, powerful desktop calculator application for Linux, Windows, and macOS. It supports unit conversions, symbolic calculation, plotting, complex numbers, uncertainty propagation, and a huge function library — far beyond a standard calculator.
 
 ---
 
 ## ❌ Problem: Qalculate! is hard to access
 
-- **Learning Curve** — Advanced features like symbolic algebra require mathematical knowledge
-- **UI Complexity** — Many modes and options can be confusing for casual calculator use
-- **Currency Rates** — Live exchange rates require internet connectivity
-- **Documentation** — Some advanced features lack clear user-facing documentation
+- **Linux-Primary** — Windows and macOS versions less polished than the Linux build
+- **Interface Complexity** — Advanced features have a learning curve
+- **Niche Compared to Wolfram Alpha** — Many use web tools for complex calculations instead
+- **Documentation** — Help resources less comprehensive than commercial math tools
 
 ---
 
@@ -121,7 +121,7 @@ Qalculate! is a powerful, free multi-purpose calculator application for Windows,
 
 ---
 
-**Qalculate! Free Installer** — Qalculate! is a powerful, free multi-purpose calculator application for Windows, macOS, and Linux. Install without internet connection today!
+**Qalculate! Free Installer** — Qalculate! is a free, powerful desktop calculator application for Linux, Windows, and macOS. Install without internet connection today!
 
 <div align="center">
 
